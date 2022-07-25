@@ -1,5 +1,5 @@
 # tic-tac-toe
-tic tac toe game made with raylib and c++
+made with c++ and raylib
 
 * Uses [raylib](https://www.raylib.com/)
 
